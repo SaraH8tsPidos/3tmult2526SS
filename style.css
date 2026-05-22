@@ -5,7 +5,7 @@ body { font-family: 'Segoe UI', sans-serif; background-color: #lalala; color: wh
 
 /* --- Ecrã Inicial --- */
 .home-bg {
-  background-color: rgb(16, 3, 26);
+  background-color: rgb(16, 3, 26) !important;;
   background-size: cover;
   background-position: center;
   min-height: 100vh;
