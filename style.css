@@ -5,8 +5,7 @@ body { font-family: 'Segoe UI', sans-serif; background-color: #lalala; color: wh
 
 /* --- Ecrã Inicial --- */
 .home-bg {
-  background: rgb(16, 3, 26),
-              url('assets/images/pap-preview.png');
+  background: rgb(16, 3, 26);
   background-size: cover;
   background-position: center;
   min-height: 100vh;
